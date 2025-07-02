@@ -10,4 +10,4 @@ for (let i = 1; i <= 20; i++) {
     let proximo = anterior + atual;
     anterior = atual;
     atual = proximo;
-}
+}  
